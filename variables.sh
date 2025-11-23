@@ -1,6 +1,6 @@
 sample() {
   echo sample function
-  cd ..
+  cd
 }
 
 sample
