@@ -1,7 +1,5 @@
 source frontend.sh
 
-cd ~/learn-shell
-
-source mogodb.sh
+source /learn-shell/mogodb.sh
 
 source catalogue.sh
