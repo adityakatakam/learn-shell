@@ -1,4 +1,4 @@
 sample() {
   echo sample function
-  cd ..
+  echo magnet
 }
