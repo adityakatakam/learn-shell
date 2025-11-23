@@ -5,7 +5,7 @@ sample() {
 
 sample
 
-soure common.sh
+source common.sh
 sample1
 
 a=10
